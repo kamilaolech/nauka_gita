@@ -7,3 +7,5 @@ Moj drugi commit
 Moj trzeci commit
 
 ... i kolejna zmiana
+
+... i jeszcze raz
