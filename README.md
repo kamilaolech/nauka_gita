@@ -11,3 +11,5 @@ Moj trzeci commit
 ... i jeszcze raz
 
 POCZMISTRZ Z TCZEWA
+
+modyfikacja w przeglądarce
