@@ -3,3 +3,5 @@
 Moj pierwszy commit
 
 Moj drugi commit
+
+Moj trzeci commit
