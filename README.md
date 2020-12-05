@@ -9,3 +9,5 @@ Moj trzeci commit
 ... i kolejna zmiana
 
 ... i jeszcze raz
+
+POCZMISTRZ Z TCZEWA
